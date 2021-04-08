@@ -16,7 +16,7 @@
 	divider = "255,189,147,249"
 	background = "255,40,42,54"
 	success = "255,255,121,198"
-	scroll_bar = "255,45,45,45"
+	scroll_bar = "255,98,114,164"
 	dark_background = "255,40,42,54"
 	warning = "255,239,83,80"
 	disabled = "255,80,80,80"
