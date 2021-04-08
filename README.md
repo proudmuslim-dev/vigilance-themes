@@ -8,6 +8,7 @@ A repository full of custom themes for [Vigilance](https://github.com/Sk1erLLC/V
 
 ## Planned Color Schemes
 
+* Dracula - https://github.com/dracula/dracula-theme#color-palette - Ongoing implementation [over here](https://github.com/proudmuslim-dev/vigilance-themes/tree/dracula-theme)
 * Gruvbox - https://github.com/morhetz/gruvbox#palette
 * Deus - https://github.com/ajmwagar/vim-deus#palette
 * Ayu - https://github.com/dempfi/ayu
