@@ -1,6 +1,6 @@
 <div align = "center">
 
-# [WIP] Deus Theme
+# Deus Theme
 
 </div>
 

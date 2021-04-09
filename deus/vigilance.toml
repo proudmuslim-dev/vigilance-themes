@@ -3,7 +3,7 @@
 	bright_divider = "255,151,151,151"
 	mid_text = "255,187,187,187"
 	bright_highlight = "255,50,50,50"
-	search_bar_background = "255,27,28,33"
+	search_bar_background = "255,44,50,59"
 	light_background = "255,44,50,59"
 	bright_text = "255,237,191,105"
 	# Side divider that separates sections and options
@@ -13,7 +13,7 @@
 	dark_text = "255,119,119,121"
 	accent = "255,144,201,102"
 	transparent = "0,0,0,0"
-	modal_background = "255,32,32,33"
+	modal_background = "255,44,50,59"
 	highlight = "255,33,34,38"
 	outline = "255,48,48,49"
 	# Borders for option cards
