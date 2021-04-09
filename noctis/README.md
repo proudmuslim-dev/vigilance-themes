@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Dracula Theme](../.github/noctis-theme.png)
+![Noctis Theme](../.github/noctis-theme.png)
