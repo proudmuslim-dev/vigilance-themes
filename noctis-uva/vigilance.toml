@@ -2,7 +2,7 @@
 	bright_divider = "255,151,151,151"
 	mid_text = "255,187,187,187"
 	bright_highlight = "85,112,96,235"
-	search_bar_background = "255,27,28,33"
+	search_bar_background = "255,41,38,64"
 	light_background = "255,41,38,64"
 	bright_text = "255,255,255,255"
 	dark_divider = "255,153,142,241"
