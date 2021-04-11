@@ -11,10 +11,10 @@ A repository full of custom themes for [Vigilance](https://github.com/Sk1erLLC/V
 * Solarized - https://github.com/altercation/solarized#precision-colors-for-machines-and-people
 * Atom One Dark - https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/themes/OneDark.json
     - Alternatively, you can also check out https://github.com/joshdick/onedark.vim/blob/b70ed293f3c3adaea23f9fcd84ef942015664756/colors/onedark.vim#L14-L40
-* Horizon - https://github.com/jolaleye/horizon-theme-vscode#personalization
 * Ayu - https://github.com/dempfi/ayu
 
 ## Completed Color Schemes
+* Horizon - https://github.com/jolaleye/horizon-theme-vscode#personalization
 * Dracula - https://github.com/dracula/dracula-theme#color-palette
 * Gruvbox - https://github.com/morhetz/gruvbox#palette
 * Deus - https://github.com/ajmwagar/vim-deus#palette
