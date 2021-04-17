@@ -1,4 +1,6 @@
 [color_scheme]
+
+[color_scheme.palette]
     bright_divider = "255,151,151,151"
     mid_text = "255,187,187,187"
     bright_highlight = "255,50,50,50"
