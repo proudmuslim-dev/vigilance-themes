@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Dracula Theme](../.github/dracula-theme.png)
+![Dracula Theme](../../.github/dracula-theme.png)

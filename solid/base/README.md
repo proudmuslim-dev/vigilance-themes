@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Base Theme](../.github/base-theme.png)
+![Base Theme](../../.github/base-theme.png)

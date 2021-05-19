@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Amoled Theme](../.github/amoled-theme.png)
+![Amoled Theme](../../.github/amoled-theme.png)

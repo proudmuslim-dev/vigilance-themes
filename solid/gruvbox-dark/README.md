@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Gruvbox Dark Theme](../.github/gruvbox-dark-theme.png)
+![Gruvbox Dark Theme](../../.github/gruvbox-dark-theme.png)

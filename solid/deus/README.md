@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Deus Theme](../.github/deus-theme.png)
+![Deus Theme](../../.github/deus-theme.png)
