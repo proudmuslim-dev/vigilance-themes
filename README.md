@@ -1,3 +1,8 @@
+# IMPORTANT!
+
+vigilance-themes no longer works due to changes inside Vigilance. Please do not contact Sk1er LLC about these changes. It is their product and they have every right to change the functionality of their library. It was a fun ride, have a good day :)
+
+
 <div align = "center">
 
 # Vigilance Themes
